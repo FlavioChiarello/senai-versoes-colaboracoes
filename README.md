@@ -5,5 +5,6 @@ O projeto foi desenvolvido seguindo as seguintes etapas principais:
 3- Git add . para adicionar todos os arquivos criados;
 4- Git Commit para visualizar e salvar alterações;
 5- Git Log para visualizar, de maneira geral, todas as alterações propostas e aceitas;
+6- Git pull - para baixar as atualizações no repositório remoto.
 
 Foram feitas, também, algumas ramificações utilizando a função gitcheckout -b para que o código Main não sofra alterações.
